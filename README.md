@@ -5,3 +5,5 @@ Online course https://www.coursera.org/learn/linear-algebra-machine-learning/hom
 
 
 - **Week 1 --- Introduction to Linear Algebra and to Mathematics for Machine Learning**
+
+
