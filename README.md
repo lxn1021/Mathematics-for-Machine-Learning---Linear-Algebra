@@ -7,3 +7,8 @@ Online course https://www.coursera.org/learn/linear-algebra-machine-learning/hom
 - **Week 1 --- Introduction to Linear Algebra and to Mathematics for Machine Learning**
 
 [Bullet Points](https://github.com/lxn1021/Mathematics-for-Machine-Learning---Linear-Algebra/blob/master/Week%201.pdf)
+
+
+- **Week 2 --- Vectors**
+
+[Bullet Points]()
