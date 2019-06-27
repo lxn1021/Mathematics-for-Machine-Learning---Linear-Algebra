@@ -12,3 +12,10 @@ Online course https://www.coursera.org/learn/linear-algebra-machine-learning/hom
 - **Week 2 --- Vectors**
 
 [Bullet Points](https://github.com/lxn1021/Mathematics-for-Machine-Learning---Linear-Algebra/blob/master/Week%202.pdf)
+
+
+- **Week 3 --- Matrices**
+
+[Bullet Points]()
+
+[Programming Assignment]()
