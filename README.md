@@ -23,7 +23,7 @@ Online course https://www.coursera.org/learn/linear-algebra-machine-learning/hom
 
 - **Week 4 --- Mappings**
 
-[Bullet Points]()
+[Bullet Points](https://github.com/lxn1021/Mathematics-for-Machine-Learning---Linear-Algebra/blob/master/Week%204.pdf)
 
 [Programming Assignment]()
 
