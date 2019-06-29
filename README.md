@@ -27,4 +27,4 @@ Online course https://www.coursera.org/learn/linear-algebra-machine-learning/hom
 
 [Programming Assignment](https://github.com/lxn1021/Mathematics-for-Machine-Learning---Linear-Algebra/blob/master/Gram-Schmidt%20process.ipynb)
 
-[Python Knowledge]()
+[Python Knowledge](https://github.com/lxn1021/Mathematics-for-Machine-Learning---Linear-Algebra/blob/master/Python%20knowledge_Week%204.pdf)
