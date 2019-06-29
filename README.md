@@ -26,3 +26,5 @@ Online course https://www.coursera.org/learn/linear-algebra-machine-learning/hom
 [Bullet Points]()
 
 [Programming Assignment]()
+
+[Python Knowledge]()
